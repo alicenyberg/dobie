@@ -1,2 +1,1 @@
-# dobie
-first repository
+# Tom Nook is our master!
